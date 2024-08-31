@@ -383,7 +383,7 @@ function showDepartment(department) {
     // Continue adding similar structures for Water Resources, Environmental, Agricultural, and Mechatronics Engineering...
 };
 
-    };
+    
 
     contentArea.innerHTML = departmentResources[department];
 }
