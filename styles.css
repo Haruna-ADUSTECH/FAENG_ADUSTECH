@@ -73,6 +73,32 @@ h1 {
     color: #ff0000; /* Red color for headings */
 }
 
+/* Welcome Message Animation */
+#welcome-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#welcome-message p {
+    font-size: 24px; /* Font size for welcoming message */
+    white-space: nowrap;
+    animation: moveSideToSide 10s linear infinite;
+}
+
+@keyframes moveSideToSide {
+    0% {
+        transform: translateX(100%);
+    }
+    50% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
+
 /* Departments Section */
 section#departments {
     margin-top: 20px;
