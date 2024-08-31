@@ -379,7 +379,7 @@ function showDepartment(department) {
             <li><a href="https://www.ansys.com/" target="_blank">ANSYS</a></li>
             <li><a href="https://www.simulia.com/products/abaqus/" target="_blank">SIMULIA Abaqus</a></li>
         </ul>
-    `,
+    `
     // Continue adding similar structures for Water Resources, Environmental, Agricultural, and Mechatronics Engineering...
 };
 
