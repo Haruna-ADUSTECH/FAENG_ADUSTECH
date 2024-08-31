@@ -379,8 +379,291 @@ function showDepartment(department) {
             <li><a href="https://www.ansys.com/" target="_blank">ANSYS</a></li>
             <li><a href="https://www.simulia.com/products/abaqus/" target="_blank">SIMULIA Abaqus</a></li>
         </ul>
+    `,
+    water: `
+        <h2>Water Resources and Environmental Engineering Resources</h2>
+        <h3>Textbooks</h3>
+        <ul>
+            <li><a href="https://ocw.mit.edu/courses/civil-and-environmental-engineering/" target="_blank">MIT OpenCourseWare Environmental Engineering</a></li>
+            <li><a href="https://nptel.ac.in/courses/105" target="_blank">NPTEL Environmental Engineering</a></li>
+            <li><a href="https://www.coursera.org/courses?query=environmental%20engineering" target="_blank">Coursera Environmental Engineering</a></li>
+            <li><a href="https://www.edx.org/learn/environmental-engineering" target="_blank">edX Environmental Engineering</a></li>
+            <li><a href="https://www.engineersedge.com/environmental_engineering.htm" target="_blank">Engineers Edge Environmental Engineering Books</a></li>
+            <li><a href="https://www.springer.com/gp/environmental-engineering" target="_blank">Springer Environmental Engineering</a></li>
+            <li><a href="https://www.elsevier.com/books/environmental-engineering" target="_blank">Elsevier Environmental Engineering Books</a></li>
+            <li><a href="https://www.learnengineering.org/environmental-engineering/" target="_blank">Learn Engineering Environmental Engineering</a></li>
+            <li><a href="https://www.ebooks.com/en-us/subject/environmental-engineering/" target="_blank">eBooks.com Environmental Engineering</a></li>
+            <li><a href="https://www.careerride.com/environmental-engineering-books.aspx" target="_blank">Career Ride Environmental Engineering Books</a></li>
+            <li><a href="https://www.cambridge.org/gb/academic/subjects/engineering/environmental-engineering" target="_blank">Cambridge University Press Environmental Engineering</a></li>
+            <li><a href="https://www.amazon.com/s?k=environmental+engineering&i=stripbooks" target="_blank">Amazon Environmental Engineering Books</a></li>
+            <li><a href="https://www.routledge.com/Environmental-Engineering" target="_blank">Routledge Environmental Engineering</a></li>
+            <li><a href="https://www.taylorandfrancis.com/engineering/environmental-engineering" target="_blank">Taylor & Francis Environmental Engineering</a></li>
+            <li><a href="https://www.sae.org/publications/books/environmental-engineering" target="_blank">SAE Environmental Engineering Books</a></li>
+            <li><a href="https://theconstructor.org/" target="_blank">The Constructor</a></li>
+            <li><a href="https://www.engineeringtoolbox.com/" target="_blank">Engineering Toolbox</a></li>
+            <li><a href="https://www.wiley.com/en-us/Environmental+Engineering-c-ENGI00P" target="_blank">Wiley Environmental Engineering</a></li>
+            <li><a href="https://www.pearson.com/us/higher-education/discipline/environmental-engineering.html" target="_blank">Pearson Environmental Engineering</a></li>
+        </ul>
+        <h3>Journals</h3>
+        <ul>
+            <li><a href="https://www.journals.elsevier.com/environmental-research" target="_blank">Environmental Research Journal</a></li>
+            <li><a href="https://www.springer.com/journal/10653" target="_blank">Environmental Geology Journal</a></li>
+            <li><a href="https://www.mdpi.com/journal/environments" target="_blank">Environments - MDPI</a></li>
+            <li><a href="https://journals.sagepub.com/home/eet" target="_blank">Environmental Engineering Science Journal</a></li>
+            <li><a href="https://www.journals.elsevier.com/journal-of-environmental-chemical-engineering" target="_blank">Journal of Environmental Chemical Engineering</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/journal-of-environmental-management" target="_blank">Journal of Environmental Management</a></li>
+            <li><a href="https://www.journals.elsevier.com/advances-in-water-resources" target="_blank">Advances in Water Resources</a></li>
+            <li><a href="https://ascelibrary.org/journal/jweaee" target="_blank">ASCE Journal of Water Resources Planning and Management</a></li>
+            <li><a href="https://journals.sagepub.com/home/eet" target="_blank">Environmental Engineering Science</a></li>
+            <li><a href="https://www.journals.elsevier.com/water-research" target="_blank">Water Research Journal</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/journal-of-environmental-sciences" target="_blank">Journal of Environmental Sciences</a></li>
+            <li><a href="https://www.journals.elsevier.com/science-of-the-total-environment" target="_blank">Science of The Total Environment</a></li>
+            <li><a href="https://www.springer.com/journal/11270" target="_blank">Environmental Processes Journal</a></li>
+            <li><a href="https://www.journals.elsevier.com/journal-of-hydrology" target="_blank">Journal of Hydrology</a></li>
+            <li><a href="https://www.journals.elsevier.com/journal-of-environmental-radioactivity" target="_blank">Journal of Environmental Radioactivity</a></li>
+            <li><a href="https://journals.sagepub.com/home/jew" target="_blank">Journal of Environmental Waste Management</a></li>
+            <li><a href="https://journals.sagepub.com/home/wem" target="_blank">Waste Management and Research Journal</a></li>
+            <li><a href="https://journals.sagepub.com/home/jew" target="_blank">Journal of Environmental and Waste Management</a></li>
+            <li><a href="https://journals.sagepub.com/home/jwe" target="_blank">Journal of Water and Environment</a></li>
+            <li><a href="https://www.journals.elsevier.com/water-research" target="_blank">Water Research Journal</a></li>
+        </ul>
+        <h3>AI and Software Tools</h3>
+        <ul>
+            <li><a href="https://www.epa.gov/waterdata" target="_blank">EPA Water Data Tools</a></li>
+            <li><a href="https://www.hydroshare.org/" target="_blank">HydroShare</a></li>
+            <li><a href="https://www.openflows.com/" target="_blank">OpenFlows Water Software</a></li>
+            <li><a href="https://www.epanet.org/" target="_blank">EPANET</a></li>
+            <li><a href="https://www.hec.usace.army.mil/software/hec-ras/" target="_blank">HEC-RAS</a></li>
+            <li><a href="https://www.swmm.com/" target="_blank">SWMM Storm Water Management</a></li>
+            <li><a href="https://www.openfoam.com/" target="_blank">OpenFOAM</a></li>
+            <li><a href="https://www.solidworks.com/" target="_blank">SolidWorks</a></li>
+            <li><a href="https://www.autodesk.com/products/autocad/overview" target="_blank">AutoCAD</a></li>
+            <li><a href="https://www.matlab.com/" target="_blank">MATLAB</a></li>
+            <li><a href="https://www.comsol.com/" target="_blank">COMSOL Multiphysics</a></li>
+            <li><a href="https://www.ansys.com/" target="_blank">ANSYS</a></li>
+            <li><a href="https://www.hydroshare.org/" target="_blank">HydroShare</a></li>
+            <li><a href="https://www.epa.gov/waterdata" target="_blank">EPA Water Data Tools</a></li>
+            <li><a href="https://www.hec.usace.army.mil/software/hec-ras/" target="_blank">HEC-RAS</a></li>
+            <li><a href="https://www.siemens.com/software/tecnomatix" target="_blank">Tecnomatix</a></li>
+            <li><a href="https://www.mscsoftware.com/product/adams" target="_blank">MSC Adams</a></li>
+            <li><a href="https://www.3ds.com/products-services/catia/" target="_blank">CATIA</a></li>
+            <li><a href="https://www.autodesk.com/products/revit/overview" target="_blank">Autodesk Revit</a></li>
+            <li><a href="https://www.hec.usace.army.mil/software/hec-hms/" target="_blank">HEC-HMS</a></li>
+        </ul>
+        <h3>Other Resources</h3>
+        <ul>
+            <li><a href="https://www.waterboards.ca.gov/" target="_blank">Water Boards</a></li>
+            <li><a href="https://www.waterriskfilter.com/" target="_blank">Water Risk Filter</a></li>
+            <li><a href="https://www.ewg.org/" target="_blank">Environmental Working Group</a></li>
+            <li><a href="https://www.globalwater.org/" target="_blank">Global Water</a></li>
+            <li><a href="https://www.water.org/" target="_blank">Water.org</a></li>
+            <li><a href="https://www.iwmi.cgiar.org/" target="_blank">International Water Management Institute</a></li>
+            <li><a href="https://www.idrc.ca/en/funding/environmental-water-resources" target="_blank">IDRC Water Resources</a></li>
+            <li><a href="https://www.who.int/water_sanitation_health/en/" target="_blank">World Health Organization - Water</a></li>
+            <li><a href="https://www.wash.org/" target="_blank">Water, Sanitation, and Hygiene</a></li>
+            <li><a href="https://www.unwater.org/" target="_blank">UN-Water</a></li>
+            <li><a href="https://www.watercouncil.org/" target="_blank">Water Council</a></li>
+            <li><a href="https://www.dhi.dk/" target="_blank">DHI Group</a></li>
+            <li><a href="https://www.wetlands.org/" target="_blank">Wetlands International</a></li>
+            <li><a href="https://www.watershedcouncil.org/" target="_blank">Watershed Council</a></li>
+            <li><a href="https://www.iwra.org/" target="_blank">International Water Resources Association</a></li>
+            <li><a href="https://www.waterquality.org/" target="_blank">Water Quality Association</a></li>
+            <li><a href="https://www.neweconomics.org/2019/02/why-water-is-the-most-critical-resource" target="_blank">New Economics Foundation - Water</a></li>
+            <li><a href="https://www.sustainablewater.org/" target="_blank">Sustainable Water</a></li>
+            <li><a href="https://www.watersense.com/" target="_blank">WaterSense</a></li>
+            <li><a href="https://www.rainwaterharvesting.org/" target="_blank">Rainwater Harvesting</a></li>
+        </ul>
+    `,
+    agricultural: `
+        <h2>Agricultural Engineering Resources</h2>
+        <h3>Textbooks</h3>
+        <ul>
+            <li><a href="https://www.springer.com/gp/book/9783319636634" target="_blank">Introduction to Agricultural Engineering</a></li>
+            <li><a href="https://www.elsevier.com/books/introduction-to-agricultural-engineering" target="_blank">Introduction to Agricultural Engineering - Elsevier</a></li>
+            <li><a href="https://www.coursera.org/courses?query=agricultural%20engineering" target="_blank">Coursera Agricultural Engineering</a></li>
+            <li><a href="https://www.edx.org/course/agricultural-engineering" target="_blank">edX Agricultural Engineering</a></li>
+            <li><a href="https://www.mdpi.com/books/series/Agricultural_Engineering" target="_blank">MDPI Agricultural Engineering Books</a></li>
+            <li><a href="https://www.sae.org/publications/books/agricultural-engineering" target="_blank">SAE Agricultural Engineering Books</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783030392825" target="_blank">Agricultural Engineering - Springer</a></li>
+            <li><a href="https://www.taylorandfrancis.com/engineering/agricultural-engineering" target="_blank">Taylor & Francis Agricultural Engineering</a></li>
+            <li><a href="https://www.amazon.com/s?k=agricultural+engineering&i=stripbooks" target="_blank">Amazon Agricultural Engineering Books</a></li>
+            <li><a href="https://www.pearson.com/us/higher-education/discipline/agricultural-engineering.html" target="_blank">Pearson Agricultural Engineering</a></li>
+            <li><a href="https://www.wiley.com/en-us/Agricultural+Engineering+Books-c-ENGI00P" target="_blank">Wiley Agricultural Engineering</a></li>
+            <li><a href="https://www.cambridge.org/gb/academic/subjects/engineering/agricultural-engineering" target="_blank">Cambridge University Press Agricultural Engineering</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783319750379" target="_blank">Advanced Agricultural Engineering</a></li>
+            <li><a href="https://www.ebooks.com/en-us/subject/agricultural-engineering/" target="_blank">eBooks.com Agricultural Engineering</a></li>
+            <li><a href="https://www.learnengineering.org/agricultural-engineering/" target="_blank">Learn Engineering Agricultural Engineering</a></li>
+            <li><a href="https://www.routledge.com/Agricultural-Engineering" target="_blank">Routledge Agricultural Engineering</a></li>
+            <li><a href="https://www.hagley.org/library/special-collections/agricultural-engineering" target="_blank">Hagley Library Agricultural Engineering</a></li>
+            <li><a href="https://www.cambridge.org/gb/academic/subjects/engineering/agricultural-engineering" target="_blank">Cambridge Agricultural Engineering</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783030730490" target="_blank">Handbook of Agricultural Engineering</a></li>
+            <li><a href="https://www.careerride.com/agricultural-engineering-books.aspx" target="_blank">Career Ride Agricultural Engineering Books</a></li>
+        </ul>
+        <h3>Journals</h3>
+        <ul>
+            <li><a href="https://www.springer.com/journal/11669" target="_blank">Agricultural Engineering International Journal</a></li>
+            <li><a href="https://www.mdpi.com/journal/agronomy" target="_blank">Agronomy - MDPI</a></li>
+            <li><a href="https://www.elsevier.com/en-xm/journal-of-agricultural-engineering" target="_blank">Journal of Agricultural Engineering</a></li>
+            <li><a href="https://www.journals.elsevier.com/agricultural-water-management" target="_blank">Agricultural Water Management</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/field-crops-research" target="_blank">Field Crops Research Journal</a></li>
+            <li><a href="https://www.springer.com/journal/13530" target="_blank">Agricultural and Biological Chemistry</a></li>
+            <li><a href="https://www.aimspress.com/journal/engineering" target="_blank">AIMS Engineering</a></li>
+            <li><a href="https://www.journals.elsevier.com/computers-and-electronics-in-agriculture" target="_blank">Computers and Electronics in Agriculture</a></li>
+            <li><a href="https://www.mdpi.com/journal/sensors" target="_blank">Sensors - MDPI</a></li>
+            <li><a href="https://www.springer.com/journal/11270" target="_blank">Environmental Processes</a></li>
+            <li><a href="https://www.elsevier.com/en-xm/journal-of-agricultural-engineering" target="_blank">Journal of Agricultural Engineering</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews" target="_blank">Renewable and Sustainable Energy Reviews</a></li>
+            <li><a href="https://journals.sagepub.com/home/esa" target="_blank">Journal of Environmental Science and Health</a></li>
+            <li><a href="https://journals.sagepub.com/home/wem" target="_blank">Waste Management & Research</a></li>
+            <li><a href="https://journals.sagepub.com/home/see" target="_blank">Environmental Engineering Science</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/journal-of-environmental-management" target="_blank">Journal of Environmental Management</a></li>
+            <li><a href="https://www.tandfonline.com/toc/saea20/current" target="_blank">Agricultural Economics</a></li>
+            <li><a href="https://www.springer.com/journal/11629" target="_blank">Journal of Agricultural and Food Chemistry</a></li>
+            <li><a href="https://www.tandfonline.com/toc/tea/48/4" target="_blank">Crop Science</a></li>
+        </ul>
+        <h3>AI and Software Tools</h3>
+        <ul>
+            <li><a href="https://www.agriculture.com/software" target="_blank">Agriculture Software</a></li>
+            <li><a href="https://www.agfundernetwork.com/" target="_blank">AgFunder</a></li>
+            <li><a href="https://www.trendlines.com/" target="_blank">Trendlines</a></li>
+            <li><a href="https://www.agri-tech-east.co.uk/" target="_blank">Agri-Tech East</a></li>
+            <li><a href="https://www.agri-tech.com/" target="_blank">Agri-Tech</a></li>
+            <li><a href="https://www.agri-tech.org/" target="_blank">Agri-Tech Forum</a></li>
+            <li><a href="https://www.agriculturalsmarttech.com/" target="_blank">Agricultural Smart Tech</a></li>
+            <li><a href="https://www.precisionagriculture.com/" target="_blank">Precision Agriculture</a></li>
+            <li><a href="https://www.agriculture.com/technology" target="_blank">Agricultural Technology</a></li>
+            <li><a href="https://www.agronomy.org/" target="_blank">Agronomy Society</a></li>
+            <li><a href="https://www.agriculture.com/software" target="_blank">Agricultural Software</a></li>
+            <li><a href="https://www.agri-tech.com/" target="_blank">Agri-Tech</a></li>
+            <li><a href="https://www.agribusinessglobal.com/" target="_blank">Agribusiness Global</a></li>
+            <li><a href="https://www.agri-tech-east.co.uk/" target="_blank">Agri-Tech East</a></li>
+            <li><a href="https://www.precisionagriculture.com/" target="_blank">Precision Agriculture</a></li>
+            <li><a href="https://www.agriculture.com/technology" target="_blank">Agricultural Technology</a></li>
+            <li><a href="https://www.treesearch.com/" target="_blank">Tree Search</a></li>
+            <li><a href="https://www.agriculture.com/software" target="_blank">Agricultural Software</a></li>
+            <li><a href="https://www.precisionagriculture.com/" target="_blank">Precision Agriculture</a></li>
+        </ul>
+        <h3>Other Resources</h3>
+        <ul>
+            <li><a href="https://www.agriculture.com/" target="_blank">Agriculture.com</a></li>
+            <li><a href="https://www.agri-tech.com/" target="_blank">Agri-Tech</a></li>
+            <li><a href="https://www.agriculture.com/technology" target="_blank">Agricultural Technology</a></li>
+            <li><a href="https://www.agfundernetwork.com/" target="_blank">AgFunder</a></li>
+            <li><a href="https://www.agriculture.com/software" target="_blank">Agricultural Software</a></li>
+            <li><a href="https://www.agri-tech-east.co.uk/" target="_blank">Agri-Tech East</a></li>
+            <li><a href="https://www.agri-tech.org/" target="_blank">Agri-Tech Forum</a></li>
+            <li><a href="https://www.agriculture.com/technology" target="_blank">Agricultural Technology</a></li>
+            <li><a href="https://www.precisionagriculture.com/" target="_blank">Precision Agriculture</a></li>
+            <li><a href="https://www.agri-tech.com/" target="_blank">Agri-Tech</a></li>
+            <li><a href="https://www.agriculture.com/software" target="_blank">Agricultural Software</a></li>
+            <li><a href="https://www.agri-tech.org/" target="_blank">Agri-Tech Forum</a></li>
+            <li><a href="https://www.agri-tech-east.co.uk/" target="_blank">Agri-Tech East</a></li>
+            <li><a href="https://www.agriculture.com/technology" target="_blank">Agricultural Technology</a></li>
+            <li><a href="https://www.agri-tech.com/" target="_blank">Agri-Tech</a></li>
+        </ul>
+    `,
+ mechatronics: `
+        <h2>Mechatronics Engineering Resources</h2>
+        <h3>Textbooks</h3>
+        <ul>
+            <li><a href="https://www.springer.com/gp/book/9783642296883" target="_blank">Introduction to Mechatronics and Measurement Systems - Springer</a></li>
+            <li><a href="https://www.elsevier.com/books/mechatronics/benassi/9780128124676" target="_blank">Mechatronics - Elsevier</a></li>
+            <li><a href="https://www.coursera.org/courses?query=mechatronics" target="_blank">Coursera Mechatronics</a></li>
+            <li><a href="https://www.edx.org/course/mechatronics" target="_blank">edX Mechatronics</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783319752540" target="_blank">Mechatronics: Principles and Applications - Springer</a></li>
+            <li><a href="https://www.amazon.com/s?k=mechatronics+i+principles+i+applications&i=stripbooks" target="_blank">Amazon Mechatronics Books</a></li>
+            <li><a href="https://www.pearson.com/us/higher-education/discipline/mechatronics.html" target="_blank">Pearson Mechatronics</a></li>
+            <li><a href="https://www.cambridge.org/gb/academic/subjects/engineering/mechatronics" target="_blank">Cambridge University Press Mechatronics</a></li>
+            <li><a href="https://www.routledge.com/Mechatronics" target="_blank">Routledge Mechatronics</a></li>
+            <li><a href="https://www.wiley.com/en-us/Mechatronics+Engineering-c-ENGI00P" target="_blank">Wiley Mechatronics Engineering</a></li>
+            <li><a href="https://www.taylorandfrancis.com/engineering/mechatronics" target="_blank">Taylor & Francis Mechatronics</a></li>
+            <li><a href="https://www.sae.org/publications/books/mechatronics" target="_blank">SAE Mechatronics Books</a></li>
+            <li><a href="https://www.ebooks.com/en-us/subject/mechatronics/" target="_blank">eBooks.com Mechatronics</a></li>
+            <li><a href="https://www.smithers.com/services/technology/mechatronics" target="_blank">Smithers Mechatronics</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783662584693" target="_blank">Advanced Mechatronics - Springer</a></li>
+            <li><a href="https://www.cambridge.org/gb/academic/subjects/engineering/mechatronics" target="_blank">Cambridge Mechatronics</a></li>
+            <li><a href="https://www.routledge.com/Mechatronics" target="_blank">Routledge Mechatronics</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783319260534" target="_blank">Mechatronics for Engineers - Springer</a></li>
+            <li><a href="https://www.pearson.com/us/higher-education/discipline/mechatronics.html" target="_blank">Pearson Mechatronics</a></li>
+            <li><a href="https://www.careerride.com/mechatronics-books.aspx" target="_blank">Career Ride Mechatronics Books</a></li>
+        </ul>
+        <h3>Journals</h3>
+        <ul>
+            <li><a href="https://www.mdpi.com/journal/mechatronics" target="_blank">Mechatronics - MDPI</a></li>
+            <li><a href="https://www.springer.com/journal/10845" target="_blank">Mechatronics Journal - Springer</a></li>
+            <li><a href="https://www.elsevier.com/en-xm/journal-of-mechatronics" target="_blank">Journal of Mechatronics - Elsevier</a></li>
+            <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287635" target="_blank">IEEE Transactions on Mechatronics</a></li>
+            <li><a href="https://www.journals.elsevier.com/mechatronics" target="_blank">Mechatronics Journal - Elsevier</a></li>
+            <li><a href="https://www.springer.com/journal/10999" target="_blank">International Journal of Advanced Manufacturing Technology</a></li>
+            <li><a href="https://www.mdpi.com/journal/sensors" target="_blank">Sensors - MDPI</a></li>
+            <li><a href="https://www.springer.com/journal/10514" target="_blank">Journal of Mechanical Science and Technology</a></li>
+            <li><a href="https://www.tandfonline.com/toc/tmea20/current" target="_blank">Journal of Mechatronics</a></li>
+            <li><a href="https://www.journals.elsevier.com/mechatronics" target="_blank">Mechatronics Journal - Elsevier</a></li>
+            <li><a href="https://www.springer.com/journal/17208" target="_blank">Journal of Dynamic Systems, Measurement, and Control</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing" target="_blank">Robotics and Computer-Integrated Manufacturing</a></li>
+            <li><a href="https://www.journals.elsevier.com/mechatronics" target="_blank">Mechatronics - Elsevier</a></li>
+            <li><a href="https://www.mdpi.com/journal/robots" target="_blank">Robots - MDPI</a></li>
+            <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287635" target="_blank">IEEE Transactions on Mechatronics</a></li>
+            <li><a href="https://www.tandfonline.com/toc/tmea20/current" target="_blank">Journal of Mechatronics</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/mechatronics" target="_blank">Mechatronics Journal</a></li>
+            <li><a href="https://www.springer.com/journal/10845" target="_blank">Mechatronics Journal - Springer</a></li>
+            <li><a href="https://www.springer.com/journal/10999" target="_blank">International Journal of Advanced Manufacturing Technology</a></li>
+            <li><a href="https://www.mdpi.com/journal/sensors" target="_blank">Sensors - MDPI</a></li>
+        </ul>
+        <h3>AI and Software Tools</h3>
+        <ul>
+            <li><a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB - MathWorks</a></li>
+            <li><a href="https://www.comsol.com/" target="_blank">COMSOL Multiphysics</a></li>
+            <li><a href="https://www.ansys.com/" target="_blank">ANSYS</a></li>
+            <li><a href="https://www.solidworks.com/" target="_blank">SolidWorks</a></li>
+            <li><a href="https://www.autodesk.com/products/autocad/overview" target="_blank">AutoCAD</a></li>
+            <li><a href="https://www.mathworks.com/products/simulink.html" target="_blank">Simulink - MathWorks</a></li>
+            <li><a href="https://www.catia.com/" target="_blank">CATIA - Dassault Systèmes</a></li>
+            <li><a href="https://www.opto22.com/" target="_blank">OPTO 22</a></li>
+            <li><a href="https://www.mscsoftware.com/product/adams" target="_blank">MSC Adams</a></li>
+            <li><a href="https://www.altium.com/" target="_blank">Altium Designer</a></li>
+            <li><a href="https://www.openfoam.com/" target="_blank">OpenFOAM</a></li>
+            <li><a href="https://www.togaf.org/" target="_blank">TOGAF</a></li>
+            <li><a href="https://www.3ds.com/products-services/catia/" target="_blank">CATIA</a></li>
+            <li><a href="https://www.siemens.com/software/tecnomatix" target="_blank">Tecnomatix</a></li>
+            <li><a href="https://www.autodesk.com/products/revit/overview" target="_blank">Revit</a></li>
+            <li><a href="https://www.mathworks.com/products/simulink.html" target="_blank">Simulink - MathWorks</a></li>
+            <li><a href="https://www.honeywell.com/en-us/products/automation-control" target="_blank">Honeywell Automation</a></li>
+            <li><a href="https://www.siemens.com/software/tecnomatix" target="_blank">Tecnomatix</a></li>
+            <li><a href="https://www.autodesk.com/products/revit/overview" target="_blank">Revit</a></li>
+            <li><a href="https://www.honeywell.com/en-us/products/automation-control" target="_blank">Honeywell Automation</a></li>
+        </ul>
+        <h3>Other Resources</h3>
+        <ul>
+            <li><a href="https://www.coursera.org/courses?query=mechatronics" target="_blank">Coursera Mechatronics</a></li>
+            <li><a href="https://www.edx.org/course/mechatronics" target="_blank">edX Mechatronics</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783642296883" target="_blank">Introduction to Mechatronics and Measurement Systems - Springer</a></li>
+            <li><a href="https://www.elsevier.com/books/mechatronics/benassi/9780128124676" target="_blank">Mechatronics - Elsevier</a></li>
+            <li><a href="https://www.routledge.com/Mechatronics" target="_blank">Routledge Mechatronics</a></li>
+            <li><a href="https://www.cambridge.org/gb/academic/subjects/engineering/mechatronics" target="_blank">Cambridge Mechatronics</a></li>
+            <li><a href="https://www.amazon.com/s?k=mechatronics&i=stripbooks" target="_blank">Amazon Mechatronics Books</a></li>
+            <li><a href="https://www.pearson.com/us/higher-education/discipline/mechatronics.html" target="_blank">Pearson Mechatronics</a></li>
+            <li><a href="https://www.springer.com/gp/book/9783319752540" target="_blank">Mechatronics: Principles and Applications - Springer</a></li>
+            <li><a href="https://www.careerride.com/mechatronics-books.aspx" target="_blank">Career Ride Mechatronics Books</a></li>
+            <li><a href="https://www.tandfonline.com/toc/tmea20/current" target="_blank">Journal of Mechatronics</a></li>
+            <li><a href="https://www.springer.com/journal/10845" target="_blank">Mechatronics Journal - Springer</a></li>
+            <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287635" target="_blank">IEEE Transactions on Mechatronics</a></li>
+            <li><a href="https://www.journals.elsevier.com/mechatronics" target="_blank">Mechatronics Journal - Elsevier</a></li>
+            <li><a href="https://www.mdpi.com/journal/robots" target="_blank">Robots - MDPI</a></li>
+            <li><a href="https://www.sciencedirect.com/journal/mechatronics" target="_blank">Mechatronics Journal</a></li>
+            <li><a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB - MathWorks</a></li>
+            <li><a href="https://www.comsol.com/" target="_blank">COMSOL Multiphysics</a></li>
+            <li><a href="https://www.ansys.com/" target="_blank">ANSYS</a></li>
+            <li><a href="https://www.solidworks.com/" target="_blank">SolidWorks</a></li>
+            <li><a href="https://www.autodesk.com/products/autocad/overview" target="_blank">AutoCAD</a></li>
+            <li><a href="https://www.mathworks.com/products/simulink.html" target="_blank">Simulink - MathWorks</a></li>
+            <li><a href="https://www.opto22.com/" target="_blank">OPTO 22</a></li>
+            <li><a href="https://www.mscsoftware.com/product/adams" target="_blank">MSC Adams</a></li>
+            <li><a href="https://www.altium.com/" target="_blank">Altium Designer</a></li>
+        </ul>
     `
-    // Continue adding similar structures for Water Resources, Environmental, Agricultural, and Mechatronics Engineering...
+
+
 };
 
     
