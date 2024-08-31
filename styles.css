@@ -20,6 +20,7 @@ body {
     font-size: 36px; /* Larger font size for emphasis */
     margin: 0;
     font-weight: bold; /* Bold font weight */
+    color: #ff0000; /* Red color for the heading */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Shadow for better readability */
 }
 
@@ -69,6 +70,44 @@ h1 {
     margin: 0;
     text-align: center;
     font-weight: bold;
+    color: #ff0000; /* Red color for headings */
+}
+
+/* Departments Section */
+section#departments {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center align department cards */
+}
+
+.department-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    width: calc(33.333% - 30px); /* Responsive card width */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content in the card */
+}
+
+.department-card h2 {
+    color: #004d99; /* Dark Green */
+    font-size: 24px; /* Font size for department names */
+    margin: 0 0 10px;
+    font-weight: bold;
+}
+
+.department-card p {
+    color: #666;
+    font-size: 16px; /* Font size for descriptions */
+    line-height: 1.5; /* Line height for readability */
+    text-align: center; /* Center align text */
 }
 
 /* Personnel Section */
