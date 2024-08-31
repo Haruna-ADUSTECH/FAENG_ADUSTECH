@@ -381,7 +381,7 @@ function showDepartment(department) {
         </ul>
     `,
     water: `
-        <h2>Water Resources and Environmental Engineering Resources</h2>
+    <h2>Water Resources and Environmental Engineering Resources</h2>
         <h3>Textbooks</h3>
         <ul>
             <li><a href="https://ocw.mit.edu/courses/civil-and-environmental-engineering/" target="_blank">MIT OpenCourseWare Environmental Engineering</a></li>
