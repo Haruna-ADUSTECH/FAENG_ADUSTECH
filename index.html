@@ -4,36 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FAENG PLATFORM</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="header">
-        <img src="faeng_logo.png" alt="FAENG Logo" class="logo">
+    <div class="container-fluid p-3 bg-primary text-white text-center">
+        <img src="faeng_logo.png" alt="FAENG Logo" class="img-fluid" style="width: 80px;">
         <h1>FAENG PLATFORM</h1>
         <p>Your gateway to academic resources in the Faculty of Engineering at ADUSTECH.</p>
     </div>
 
-    <div class="sidebar">
-        <ul>
-            <li><button onclick="showDepartment('electrical')">Electrical Engineering</button></li>
-            <li><button onclick="showDepartment('mechanical')">Mechanical Engineering</button></li>
-            <li><button onclick="showDepartment('civil')">Civil Engineering</button></li>
-            <li><button onclick="showDepartment('automotive')">Automotive Engineering</button></li>
-            <li><button onclick="showDepartment('water')">Water Resources & Environmental Engineering</button></li>
-            <li><button onclick="showDepartment('agricultural')">Agricultural Engineering</button></li>
-            <li><button onclick="showDepartment('mechatronics')">Mechatronics Engineering</button></li>
-        </ul>
+    <div class="row">
+        <nav class="col-md-2 bg-light sidebar">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('electrical')">Electrical Engineering</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('mechanical')">Mechanical Engineering</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('civil')">Civil Engineering</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('automotive')">Automotive Engineering</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('water')">Water Resources & Environmental Engineering</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('agricultural')">Agricultural Engineering</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-link text-success" onclick="showDepartment('mechatronics')">Mechatronics Engineering</button>
+                </li>
+            </ul>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4" id="content-area">
+            <h2 class="mt-4">Welcome to the FAENG PLATFORM</h2>
+            <p>Select a department to explore the resources available.</p>
+        </main>
     </div>
 
-    <div class="content" id="content-area">
-        <h2>Welcome to the FAENG PLATFORM</h2>
-        <p>Select a department to explore the resources available.</p>
-    </div>
-
-    <footer>
+    <footer class="bg-primary text-white text-center py-2">
         <p>© 2024 FAENG, ADUSTECH. All Rights Reserved.</p>
     </footer>
 
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
